@@ -1,16 +1,22 @@
 # Repositorio Personal
-En este repositorio podras encontrar informacion relevante acerca de mis capacidades profesionales como proyectos, cualidades intereses, etc.
+En este repositorio podras encontrar informacion relevante acerca de mis capacidades profesionales asi como proyectos, cualidades, intereses, etc.
 
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: Kevin Roldan Pilozo
-* Ocupación: Estudiante Universitario en la Escuela Politecnica del Litorial (ESPOL)
-* Lugar de residencia:[Guayaquil
-* Sitio web: Tu sitio web
+* **Nombre:** Kevin Ariel Roldán Pilozo
+* **Ocupación:** Estudiante Universitario en la Escuela Politecnica del Litorial (ESPOL) en la carrera de Ingenieria en Ciencias de la Computacion.
+* **Lugar de residencia:** Guayaquil-Ecuador
+* **Sitio web:** *En construccion*
 ## Proyectos
-* [Lista de tus proyectos]
+* [Sistema de Citas para una organizacion que atiende a niños con problemas motrices y/o cognitivos](https://github.com/K3vR0ld4n/POO-P01-G01)
+* [Manipulacion de un esquema relacional sencillo como una DB de Facebook Ads](https://github.com/FabricioMorenoEspol/ProyectoBD)
+* [Editor de Emojis exportables con interfaz gráfica hecha en Java](https://github.com/K3vR0ld4n/Grupo_06)
+* [Implementación de un Arbol multicamino usado para la creación de diccionarios en formato .txt](https://github.com/AngelT-lancervs/Grupo_06.git)
 ## Intereses
-* [Lista de tus intereses]
+* Inteligencia Artificial
+* Sistemas de Base de Datos
+* Desarrollo de videojuegos
+* Redes neuronales
